@@ -22,3 +22,7 @@ Below is a screenshot of the script running in the terminal:
 
 ```bash
 pip install requests beautifulsoup4 googlesearch-python
+2.Run the script
+```bash
+python contact_finder.py
+
